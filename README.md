@@ -1,3 +1,5 @@
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/6c178db4-1c24-48b1-9b23-02207d511137" />
+
 # Time App
 
 A lightweight, real‑time clock application built with modern web technologies.
