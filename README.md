@@ -22,4 +22,4 @@ Time App provides an elegant, responsive clock that displays the current time lo
 - **GitHub Pages** – Static site hosting.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Mozilla Public License 2.0. See the [LICENSE](LICENSE) file for details.
